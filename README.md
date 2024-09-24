@@ -1,5 +1,5 @@
 - Hi, I’m @clorenzomahon 👋 
-- I’m a Web Developer, Gamer and Wife.
+- I’m a Front-End Web Developer, Gamer and Wife.
 - Passionate about coding and problem-solving. 🚀
 
 <!---
