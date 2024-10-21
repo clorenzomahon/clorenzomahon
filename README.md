@@ -1,7 +1,7 @@
 - Hi, I’m @clorenzomahon 👋 
 - I’m a Front-End Web Developer, Creative and Wife.
 - Passionate about coding and problem-solving. 🚀
-**- You can visit my portfolio here - [https://clorenzomahon.github.io/](url)
+- ** You can visit my portfolio here - [https://clorenzomahon.github.io/](url)
 **
 
 <!---
