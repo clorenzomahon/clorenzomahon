@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Cait.
 
-<!--
-**clorenzomahon/clorenzomahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer with experience working as a **Drupal Developer**, building and supporting modern websites for charities and purpose-driven organisations.
 
-Here are some ideas to get you started:
+Currently studying towards a **BSc in Computer Science** with a focus on creating accessible, maintainable digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+- Drupal 
+- HTML, CSS, JavaScript  
+- Python  
+
+## Current focus
+
+- Web accessibility and inclusive UX  
+- Clean front-end architecture  
+- Performance and usability  
+- Ethical, mission-driven digital projects  
+
+## Education
+
+BSc in Computer Science (in progress)
+
+## Languages
+
+English (native)  
+French (B2)
