@@ -1,5 +1,3 @@
-# Cait Lorenzo-Mahon
-
 Front-end Developer / Drupal developer building accessible, maintainable websites for charities
 and purpose-driven organisations. Currently completing a BSc in Computer Science.
 
