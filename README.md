@@ -7,7 +7,8 @@ Drupal · HTML · CSS · JavaScript · Python
 
 ## Interests
 
-Accessibility · Inclusive UX · Front-end architecture · Mission-driven tech
+Accessibility · Inclusive UX · Sustainable web · Green-first performance ·
+Front-end architecture · Design-led development · Tech for good · Responsible AI
 
 ## Education
 
