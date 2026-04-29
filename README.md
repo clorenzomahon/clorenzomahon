@@ -1,27 +1,20 @@
-# Hi, I'm Cait.
+# Cait Lorenzo-Mahon
 
-Web developer with experience working as a **Drupal Developer**, building and supporting modern websites for charities and purpose-driven organisations.
+Drupal developer building accessible, maintainable websites for charities
+and purpose-driven organisations. Currently completing a BSc in Computer Science.
 
-Currently studying towards a **BSc in Computer Science** with a focus on creating accessible, maintainable digital products.
+## Stack
 
-## Tech
+Drupal · HTML · CSS · JavaScript · Python
 
-- Drupal 
-- HTML, CSS, JavaScript  
-- Python  
+## Interests
 
-## Current focus
-
-- Web accessibility and inclusive UX  
-- Clean front-end architecture  
-- Performance and usability  
-- Ethical, mission-driven digital projects  
+Accessibility · Inclusive UX · Front-end architecture · Mission-driven tech
 
 ## Education
 
-BSc in Computer Science (in progress)
+BSc Computer Science *(in progress)*
 
 ## Languages
 
-English (native)  
-French (B2)
+English (native) · French (B2)
